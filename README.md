@@ -1,6 +1,6 @@
-# 🧪 LLM Playground — Local AI Experiments on Mac M3
+# 🧪 LLAMA-3 Playground — Local AI Experiments on Mac M3
 
-A hands-on experimentation lab for learning LLM **Inferencing**, **Fine-Tuning**, and **Weight Manipulation** — running entirely on a MacBook M3 with 16GB unified memory using Apple's MLX framework.
+A hands-on experimentation lab for learning LLM(LLAMA-3) **Inferencing**, **Fine-Tuning**, and **Weight Manipulation** — running entirely on a MacBook M3 with 16GB unified memory using Apple's MLX framework.
 
 ---
 
